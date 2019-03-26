@@ -44,6 +44,7 @@
 #endif
 #include <mach/mach.h>
 #include <mach-o/dyld.h>
+#include <time.h>
 
 
 typedef struct
