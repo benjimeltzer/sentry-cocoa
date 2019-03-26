@@ -37,7 +37,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <unistd.h>
-
+#include <time.h>
 
 static int g_maxReportCount = 5;
 // Have to use max 32-bit atomics because of MIPS.
